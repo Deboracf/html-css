@@ -1,0 +1,22 @@
+MINHA PALETA DE CORES TONS PASTEIS PARA CSS
+
+/* Color Theme Swatches in Hex */
+.My-Color-Theme-1-hex { color: #FFC2BD; }
+.My-Color-Theme-2-hex { color: #ACB9FA; }
+.My-Color-Theme-3-hex { color: #FFF5BF; }
+.My-Color-Theme-4-hex { color: #FFAD87; }
+.My-Color-Theme-5-hex { color: #82FFD1; }
+
+/* Color Theme Swatches in RGBA */
+.My-Color-Theme-1-rgba { color: rgba(255, 193, 188, 1); }
+.My-Color-Theme-2-rgba { color: rgba(172, 184, 249, 1); }
+.My-Color-Theme-3-rgba { color: rgba(255, 244, 191, 1); }
+.My-Color-Theme-4-rgba { color: rgba(255, 173, 135, 1); }
+.My-Color-Theme-5-rgba { color: rgba(130, 255, 209, 1); }
+
+/* Color Theme Swatches in HSLA */
+.My-Color-Theme-1-hsla { color: hsla(4, 100, 87, 1); }
+.My-Color-Theme-2-hsla { color: hsla(230, 88, 82, 1); }
+.My-Color-Theme-3-hsla { color: hsla(50, 100, 87, 1); }
+.My-Color-Theme-4-hsla { color: hsla(19, 100, 76, 1); }
+.My-Color-Theme-5-hsla { color: hsla(157, 100, 75, 1); }
